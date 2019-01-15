@@ -14,7 +14,7 @@
 <h2>관리자 홈 화면!</h2>
 
 <h3>[<a
-			href="<c:url value="/" />">HOME</a>]</h3>
+			href="<c:url value="/home.do" />">HOME</a>]</h3>
 
 </body>
 </html>
